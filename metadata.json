@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Стоянка",
+  "description": "Приложение за търсене на активни крипто аердропи (airdrops) чрез анализ на портфейл и Google Search Grounding с Gemini AI.",
+  "requestFramePermissions": []
+}
